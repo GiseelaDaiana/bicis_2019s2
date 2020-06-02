@@ -1,5 +1,5 @@
 # Depósitos de bicicletas
-
+     
 ![muchas_bicis](muchasbicis.jpg "Buscá tu bici si te animás")
 
 Nos piden construir un modelo cuyo objetivo es informatizar parte de la gestión de los depósitos municipales de bicicletas en Ciudad Gótica.
